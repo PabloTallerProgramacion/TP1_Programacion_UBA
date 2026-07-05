@@ -56,3 +56,5 @@ Google Drive
 GitHub
 LaTeX
 ```
+
+## Versión final entregado
