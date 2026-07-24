@@ -1,17 +1,80 @@
-# TP2 - Programación UBA - Grupo 2
+# Trabajo Práctico Nº2
 
-Trabajo Práctico N.º 2 del Taller de Programación de la Maestría en Economía Aplicada UBA.
+## Taller de Programación
 
-## Autores
+### Maestría en Economía Aplicada
+
+Universidad de Buenos Aires
+
+### Grupo 2
 
 - Andrea Chasi
 - Santiago Soler
 - Pablo Ortiz
 
-## Tema
+---
 
-Métodos no supervisados aplicados a microdatos de la Encuesta Permanente de Hogares: PCA, k-medias, clustering jerárquico y k-moda.
+## Objetivo
 
-## Estado
+Aplicar técnicas de aprendizaje no supervisado utilizando los microdatos de la Encuesta Permanente de Hogares (EPH) correspondientes al cuarto trimestre de 2024 y 2025.
 
-Trabajo en desarrollo.
+---
+
+## Contenido
+
+Este trabajo incluye:
+
+- Construcción de variables
+- Estadísticas descriptivas
+- Matriz de correlaciones
+- Estandarización
+- Análisis de Componentes Principales (PCA)
+- K-Means
+- Método del Codo
+- Clustering Jerárquico
+- K-Modas
+- Reflexión sobre Inteligencia Artificial
+
+---
+
+## Archivos
+
+TP2_Programacion_Grupo2.ipynb
+
+Notebook completamente reproducible.
+
+TP2_Programacion_Grupo2.pdf
+
+Informe final.
+
+figuras/
+
+Gráficos utilizados en el informe.
+
+tablas/
+
+Resultados exportados en Excel y CSV.
+
+---
+
+## Fuente de datos
+
+Encuesta Permanente de Hogares (EPH)
+
+INDEC
+
+Cuarto trimestre 2024
+
+Cuarto trimestre 2025
+
+---
+
+## Herramientas
+
+Python
+
+Google Colab
+
+GitHub
+
+ChatGPT (GPT-5.5)
