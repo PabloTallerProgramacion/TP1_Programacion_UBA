@@ -16,7 +16,7 @@ Universidad de Buenos Aires
 
 ## Objetivo
 
-Aplicar técnicas de aprendizaje no supervisado utilizando los microdatos de la Encuesta Permanente de Hogares (EPH) correspondientes al cuarto trimestre de 2024 y 2025.
+Aplicar técnicas de aprendizaje no supervisado utilizando los microdatos de la Encuesta Permanente de Hogares (EPH) correspondientes al cuarto trimestre de 2024 y cuarto trimestre de 2025.
 
 ---
 
