@@ -77,4 +77,6 @@ Google Colab
 
 GitHub
 
-ChatGPT (GPT-5.5)
+ChatGPT (OpenAI LLM)
+## Ultima actualizacion
+24 julio 2026
